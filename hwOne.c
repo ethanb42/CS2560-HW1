@@ -7,7 +7,7 @@
 
 void main(){
 
-	printf("Hello World \n");
+	printf("Hello, my name is Ethan!");
 }
 
 
